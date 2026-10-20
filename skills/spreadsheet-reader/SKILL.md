@@ -1,7 +1,7 @@
 ---
 name: spreadsheet-reader
 description: This skill should be used when an employee provides a CSV, XLSX or XLS export (stock lists, budgets, invoices, POs, pick lists, schedules, RAID logs, data extracts, BOMs, quotes) and wants it profiled, checked, compared, reconciled or analysed. It explains how to profile the sheet locally with the bundled script and how to present numeric findings.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Spreadsheet Reader

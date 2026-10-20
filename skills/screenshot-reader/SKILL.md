@@ -1,7 +1,7 @@
 ---
 name: screenshot-reader
 description: This skill should be used when an employee drops in a screenshot or photo (NMS alarm panel, OLT/ONT status page, CLI terminal, ticket screen, spreadsheet screenshot, site photo, test-set display, whiteboard) and wants the content interpreted, transcribed or used as evidence. It explains how to extract facts faithfully and mark what could not be read.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Screenshot Reader

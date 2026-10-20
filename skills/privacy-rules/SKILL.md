@@ -1,7 +1,7 @@
 ---
 name: privacy-rules
 description: This skill should be used when any department copilot task begins - it applies at the start of every department copilot task (NOC, engineering, design, field, construction, projects, customer, RSP, sales, developers, finance, procurement, warehouse, people, marketing, compliance, security, analytics, executive, training, sticky notes). It defines the local-only operating contract - what Claude may read, what it must never reach for, how to handle personal and customer data, and how to hand decisions back to the employee.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Privacy Rules for the company Copilots

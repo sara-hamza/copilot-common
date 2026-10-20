@@ -1,7 +1,7 @@
 ---
 name: document-reader
 description: This skill should be used when an employee drops in or names a PDF, Word document (.docx), text export, email saved as a file, or a design/standards document and wants it analysed, summarised, reviewed or compared. It explains how to extract the text locally, keep page/section references, and handle scanned or image-only PDFs.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Document Reader

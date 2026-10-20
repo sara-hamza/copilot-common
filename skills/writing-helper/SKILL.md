@@ -1,7 +1,7 @@
 ---
 name: writing-helper
 description: This skill should be used whenever a copilot drafts something a person will send or publish - ticket notes, handovers, customer replies, RSP responses, contractor instructions, status updates, executive briefs, job descriptions, policies, marketing copy, meeting summaries. It sets house style, tone by audience, structure, and the rewrite checklist.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Writing Helper
